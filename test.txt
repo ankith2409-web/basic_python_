@@ -1,1 +1,3 @@
-hello amity university 
+a=10
+print(a)
+
