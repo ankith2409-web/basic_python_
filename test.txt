@@ -1,6 +1,6 @@
-a=10
+a=20
 print(a)
-b=int(input("eneter a randome variable"))
+b=int(input("enter a randome variable"))
 print(b)
 c=a-b
 print(c)
